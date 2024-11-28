@@ -1,0 +1,5 @@
+#!/bin/bash
+
+while true; do
+    ./level11 /tmp/token 127.0.0.1
+done
